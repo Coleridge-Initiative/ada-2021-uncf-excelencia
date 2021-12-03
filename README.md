@@ -1,4 +1,4 @@
-# Applied DAta Anaytics Program - UNCF / Excelencia Class
+# Applied Data Anaytics Program - UNCF / Excelencia Class
 There was a 2021 Applied Data Analytics workshop in Tennessee. Participants worked in teams with data from National Center for Science and Engineering Statistics and the Institute for Research on innovation and Science. The specific focus of the workshop was on an effort to increase data-based research capacity among institutions of higher education that serve a large share of Black and Latinx students. Participants received training on core data concepts such as record linkage and data visualization as well as cutting-edge training in machine learning.
 
 This repository contains the class materials for the UNCF / Excelencia applied data analytics program.
