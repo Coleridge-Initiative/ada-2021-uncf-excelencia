@@ -44,3 +44,7 @@ Day 11 - Privacy and Confidentiality
 
 Day 12 - Bias and Ethics
 
+**References**
+
+The notebooks in this repository were inspired by previous applied data analytics class materials and notebooks.
+
